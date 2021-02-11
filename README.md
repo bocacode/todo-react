@@ -4,7 +4,7 @@
 1. Install all dependencies after cloning with `yarn` or `npm i`
 2. Run `yarn start` or `npm start` to run project
 
-## Phase 1
+## Phase 1 - 2/11/21
 ### Create Project and add Bootstrap
 1. Create Project `npx create-react-app todo-react`
 2. Add Bootstrap `yarn add bootstrap` or `npm install --save bootstrap` 
@@ -16,6 +16,7 @@
 2. Create `Todo.js` as App.js sibbling
 3. Import `Todo Component` to App
 4. Created `State` to hold our list of todos
-5. 
+5. Loop through the `todos` in state and display on page
 
+### 
 
